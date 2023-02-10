@@ -4524,6 +4524,8 @@ figcaption {
 .image-2 {
   position: absolute;
   left: 100px;
+  top: auto;
+  bottom: -8rem;
 }
 
 .text-color-random-4 {
